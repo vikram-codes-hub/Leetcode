@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikram-codes-hub/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0088-merge-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikram-codes-hub/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikram-codes-hub/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
