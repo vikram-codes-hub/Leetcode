@@ -1,17 +1,12 @@
 class Solution {
 public:
     vector<int> ans;
-
     void merge(vector<pair<int,int>>& arr, int low, int mid, int high) {
-
         vector<pair<int,int>> temp;
-
         int i = low;
         int j = mid + 1;
         int rightCount = 0;
-
         while (i <= mid && j <= high) {
-
             if (arr[j].first < arr[i].first) {
                 rightCount++;
                 temp.push_back(arr[j]);
@@ -22,18 +17,15 @@ public:
                 i++;
             }
         }
-
         while (i <= mid) {
             ans[arr[i].second] += rightCount;
             temp.push_back(arr[i]);
             i++;
         }
-
         while (j <= high) {
             temp.push_back(arr[j]);
             j++;
         }
-
         for (int k = low; k <= high; k++) {
             arr[k] = temp[k - low];
         }
