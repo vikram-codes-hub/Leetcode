@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vikram-codes-hub/Leetcode/tree/master/0016-3sum-closest) |
+| [0073-set-matrix-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vikram-codes-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0283-move-zeroes) |
@@ -85,10 +86,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
