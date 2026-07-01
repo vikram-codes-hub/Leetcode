@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
 | [1649-create-sorted-array-through-instructions](https://github.com/vikram-codes-hub/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikram-codes-hub/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1991-find-the-middle-index-in-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
