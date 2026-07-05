@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/vikram-codes-hub/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vikram-codes-hub/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vikram-codes-hub/Leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/vikram-codes-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikram-codes-hub/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vikram-codes-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/vikram-codes-hub/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vikram-codes-hub/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
 | [1649-create-sorted-array-through-instructions](https://github.com/vikram-codes-hub/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Binary Indexed Tree
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [3620-network-recovery-pathways](https://github.com/vikram-codes-hub/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -132,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0146-lru-cache) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
