@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vikram-codes-hub/Leetcode/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/vikram-codes-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vikram-codes-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vikram-codes-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/vikram-codes-hub/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vikram-codes-hub/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vikram-codes-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [3620-network-recovery-pathways](https://github.com/vikram-codes-hub/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
