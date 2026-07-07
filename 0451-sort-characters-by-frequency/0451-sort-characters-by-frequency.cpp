@@ -17,11 +17,13 @@ public:
         string ans = "";
 
         for(int i = 127; i >= 0; i--) {
-            int cnt = mp[i].second;
+            if(mp[i].second>0){
+                int cnt = mp[i].second;
 
             while(cnt > 0) {
                 ans += mp[i].first;
                 cnt--;
+            }
             }
         }
 
