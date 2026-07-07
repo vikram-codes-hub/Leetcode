@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0146-lru-cache) |
 | [0307-range-sum-query-mutable](https://github.com/vikram-codes-hub/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0460-lfu-cache) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0460-lfu-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0460-lfu-cache) |
 ## Bucket Sort
 |  |
 | ------- |
