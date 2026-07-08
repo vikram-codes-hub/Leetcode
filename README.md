@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikram-codes-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/vikram-codes-hub/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/vikram-codes-hub/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/vikram-codes-hub/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/vikram-codes-hub/Leetcode/tree/master/0686-repeated-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/vikram-codes-hub/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/vikram-codes-hub/Leetcode/tree/master/1392-longest-happy-prefix) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikram-codes-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/vikram-codes-hub/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/vikram-codes-hub/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/vikram-codes-hub/Leetcode/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/vikram-codes-hub/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
