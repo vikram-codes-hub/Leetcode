@@ -1,46 +1,43 @@
 class LRUCache {
 public:
-    unordered_map<int,pair<list<int>::iterator,int>>mp;
-    list<int>dll;
-    int n;
+unordered_map<int,pair<list<int>::iterator,int>>mp;
+list<int>cache;
+int n;
     LRUCache(int capacity) {
-        n=capacity;
+         n=capacity;
     }
-    void makemost(int key){
-        //sbse phele address pr jao aur usko remove kr do 
-        dll.erase(mp[key].first);
-        //ab usko sabse age dal do;
-        dll.push_front(key);
-        //update address in the map;
-        mp[key].first=dll.begin();
+    void maketofirst(int key){
+        cache.erase(mp[key].first);
+        cache.push_front(key);
+        mp[key].first=cache.begin();
     }
-    int get(int key) {
-        //in this first see if we ahve the value in the amp if not return-1
-        if(mp.find(key)!=mp.end()){
 
-            //sbase phele agge le aoo
-            makemost(key);
+    
+    int get(int key) {
+        if(mp.find(key)!=mp.end()){
+            //sbase phele agge dalo usko dll me fhir uske bad uska address chane kro fhir uska value return krdo
+            maketofirst(key);
             return mp[key].second;
         }
         return -1;
     }
     
     void put(int key, int value) {
-        //check if the key is present in the map,if yes we just need tonudpate the address,value  nothing else
+        //check ki khai mey presengt to nhi
         if(mp.find(key)!=mp.end()){
-          mp[key].second=value;
-          makemost(key);
-          return;
+            mp[key].second=value;
+            maketofirst(key);         
+        }else{
+            cache.push_front(key);
+            mp[key]={cache.begin(),value};
+            n--;
         }
-        //agr nhi ahi to push kro
-        dll.push_front(key);
-        mp[key]={dll.begin(),value};
-        n--;
 
-        if(n<0){
-            int key_to_del=dll.back();
-            dll.pop_back();
-            mp.erase(key_to_del);
+        if(n<0){//mtlb  size se ajda exceed kr gyi hai
+        int key_to_del=cache.back();
+        mp.erase(key_to_del);
+        cache.pop_back();
+        n++;
         }
     }
 };
