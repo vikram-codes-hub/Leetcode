@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vikram-codes-hub/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/vikram-codes-hub/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/vikram-codes-hub/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikram-codes-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/vikram-codes-hub/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/vikram-codes-hub/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vikram-codes-hub/Leetcode/tree/master/0013-roman-to-integer) |
 | [1025-divisor-game](https://github.com/vikram-codes-hub/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
