@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/vikram-codes-hub/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikram-codes-hub/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1991-find-the-middle-index-in-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vikram-codes-hub/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/vikram-codes-hub/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikram-codes-hub/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/vikram-codes-hub/Leetcode/tree/master/3620-network-recovery-pathways) |
