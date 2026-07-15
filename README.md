@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vikram-codes-hub/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vikram-codes-hub/Leetcode/tree/master/0013-roman-to-integer) |
 | [1025-divisor-game](https://github.com/vikram-codes-hub/Leetcode/tree/master/1025-divisor-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vikram-codes-hub/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
 | ------- |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikram-codes-hub/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vikram-codes-hub/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
