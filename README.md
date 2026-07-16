@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vikram-codes-hub/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vikram-codes-hub/Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vikram-codes-hub/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/vikram-codes-hub/Leetcode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/vikram-codes-hub/Leetcode/tree/master/0283-move-zeroes) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vikram-codes-hub/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vikram-codes-hub/Leetcode/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vikram-codes-hub/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
