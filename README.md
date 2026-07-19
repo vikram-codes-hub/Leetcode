@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/vikram-codes-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikram-codes-hub/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Design
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vikram-codes-hub/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vikram-codes-hub/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/vikram-codes-hub/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0316-remove-duplicate-letters](https://github.com/vikram-codes-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0451-sort-characters-by-frequency](https://github.com/vikram-codes-hub/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/vikram-codes-hub/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/vikram-codes-hub/Leetcode/tree/master/0686-repeated-string-match) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/vikram-codes-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/vikram-codes-hub/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikram-codes-hub/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
@@ -238,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vikram-codes-hub/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/vikram-codes-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
