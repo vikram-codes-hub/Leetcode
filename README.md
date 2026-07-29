@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/vikram-codes-hub/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1480-running-sum-of-1d-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1649-create-sorted-array-through-instructions](https://github.com/vikram-codes-hub/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vikram-codes-hub/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vikram-codes-hub/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Matrix
 |  |
