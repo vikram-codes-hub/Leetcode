@@ -1,20 +1,21 @@
 class LRUCache {
 public:
 unordered_map<int, pair<list<int>::iterator, int>> cache;
-list<int>ll;
+list<int>dll;
 int n;
     LRUCache(int capacity) {
-        n=capacity;
-    }
-    void makerecent(int key){
-       ll.erase(cache[key].first);
-        ll.push_front(key);
-        cache[key].first = ll.begin();
+    n = capacity;
+}
 
+    void makefirst(int key){
+       dll.erase(cache[key].first);
+        dll.push_front(key);
+        cache[key].first=dll.begin();
     }
+    
     int get(int key) {
         if(cache.find(key)!=cache.end()){
-            makerecent(key);
+            makefirst(key);
             return cache[key].second;
         }
         return -1;
@@ -22,19 +23,19 @@ int n;
     
     void put(int key, int value) {
         if(cache.find(key)!=cache.end()){
-             makerecent(key);
-             cache[key]={ll.begin(),value};
-             return;
+            makefirst(key);
+            cache[key]={dll.begin(),value};
+            return ;
         }
 
-        ll.push_front(key);
-        cache[key]={ll.begin(),value};
+        dll.push_front(key);
+        cache[key]={dll.begin(),value};
         n--;
 
         if(n<0){
-            int key_to_del=ll.back();
+            int key_to_del=dll.back();
             cache.erase(key_to_del);
-            ll.pop_back();
+            dll.pop_back();
             n++;
         }
     }
