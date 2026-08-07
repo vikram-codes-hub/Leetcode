@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vikram-codes-hub/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/vikram-codes-hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/vikram-codes-hub/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -126,10 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vikram-codes-hub/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/vikram-codes-hub/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0460-lfu-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/vikram-codes-hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikram-codes-hub/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vikram-codes-hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vikram-codes-hub/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vikram-codes-hub/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
