@@ -1,46 +1,50 @@
 class Solution {
 public:
-vector<int>buildlps(string pat){
-    vector<int>lps(pat.size(),0);
-    int len=0;
-    int i=1;
-    while(i<pat.length()){
-        if(pat[i]==pat[len]){
+vector<int>buildlps(string s){
+    int len=0,i=1,m=s.length();
+    vector<int>lps(m,0);
+
+   while(i<m){
+        if(s[i]==s[len]){
             len++;
             lps[i]=len;
             i++;
         }else{
             if(len!=0){
                 len=lps[len-1];
-            }else {
-                len=0;
+            }else{
+                lps[i]=0;
                 i++;
+                len=0;
             }
         }
     }
     return lps;
 }
-    int strStr(string haystack, string needle) {
-        vector<int>lps=buildlps(needle);
-        int n=haystack.length();
-        int m=needle.length();
-        int i=0,j=0;
-        while(i<n){
-         
-             if(haystack[i]==needle[j]){
-                i++;j++;
-            }
-                if(j==m)return i-j;
-                else{
-                    if(i<n && haystack[i]!=needle[j]){
-                    if(j!=0){
-                        j=lps[j-1];
-                    }else i++;
-                }
-                }
-            
-          
+
+int kmp(string s,string pat){
+    int i=0,j=0;
+    vector<int>lps=buildlps(pat);
+
+    int n=s.length(),m=pat.length();
+    while(i<n){
+        
+        if(s[i]==pat[j]){
+            i++;j++;
+            if(j == m)return i - j;
         }
-        return -1;
+        else{
+            if(j>0){
+                j=lps[j-1];
+            }else{
+                i++;
+                j=0;
+            }
+        }
+    }
+    return -1;
+}
+    int strStr(string haystack, string needle) {
+        return kmp(haystack, needle);
     }
 };
