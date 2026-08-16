@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vikram-codes-hub/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikram-codes-hub/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/vikram-codes-hub/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vikram-codes-hub/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikram-codes-hub/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Number Theory
 |  |
@@ -301,8 +303,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikram-codes-hub/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vikram-codes-hub/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikram-codes-hub/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vikram-codes-hub/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
