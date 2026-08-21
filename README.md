@@ -312,12 +312,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikram-codes-hub/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/vikram-codes-hub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikram-codes-hub/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/vikram-codes-hub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vikram-codes-hub/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -327,12 +329,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vikram-codes-hub/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/vikram-codes-hub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/vikram-codes-hub/Leetcode/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/vikram-codes-hub/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vikram-codes-hub/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
