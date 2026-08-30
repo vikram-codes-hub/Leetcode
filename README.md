@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vikram-codes-hub/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/vikram-codes-hub/Leetcode/tree/master/0493-reverse-pairs) |
+| [0895-maximum-frequency-stack](https://github.com/vikram-codes-hub/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1649-create-sorted-array-through-instructions](https://github.com/vikram-codes-hub/Leetcode/tree/master/1649-create-sorted-array-through-instructions) |
 ## Greedy
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/vikram-codes-hub/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vikram-codes-hub/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0895-maximum-frequency-stack](https://github.com/vikram-codes-hub/Leetcode/tree/master/0895-maximum-frequency-stack) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vikram-codes-hub/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/vikram-codes-hub/Leetcode/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/vikram-codes-hub/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/vikram-codes-hub/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/vikram-codes-hub/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/vikram-codes-hub/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0895-maximum-frequency-stack](https://github.com/vikram-codes-hub/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/vikram-codes-hub/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vikram-codes-hub/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
